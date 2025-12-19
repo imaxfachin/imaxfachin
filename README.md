@@ -41,7 +41,7 @@
   Script em Python que resume backups e envia por SMTP com HTML formatado e anexos.
 
 - **[Servidor Minecraft em Docker](https://github.com/imaxfachin/minecraft-server)**  
-  Script interativo para configuração segura e rápida de firewalls em servidores Debian/Ubuntu.
+  Script interativo para configuração segura e rápida de Minecraft Server em Docker com Debian/Ubuntu.
 
 ---
 
