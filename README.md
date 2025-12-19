@@ -37,7 +37,7 @@
 - 📩 **[SMTP Relay com Postfix + Dovecot](https://github.com/imaxfachin/email-backup-reports)**  
   Gateway de envio de e-mails com autenticação segura, ideal para notificações automatizadas.
 
-- 📬 **[Envio de Logs de Backup via Email](https://github.com/imaxfachin/send-email-logs)**  
+- 📬 **[Envio de Logs de Backup via Email](https://github.com/imaxfachin/email-backup-reports)**  
   Script em Python que resume backups e envia por SMTP com HTML formatado e anexos.
 
 ---
