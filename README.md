@@ -34,7 +34,7 @@
 - 🔐 **[Firewall Automatizado com NFTables](https://github.com/imaxfachin/firewall-nftables)**  
   Script interativo para configuração segura e rápida de firewalls em servidores Debian/Ubuntu.
 
-- 📩 **[SMTP Relay com Postfix + Dovecot](https://github.com/imaxfachin/smtp-relay)**  
+- 📩 **[SMTP Relay com Postfix + Dovecot](https://github.com/imaxfachin/email-backup-reports)**  
   Gateway de envio de e-mails com autenticação segura, ideal para notificações automatizadas.
 
 - 📬 **[Envio de Logs de Backup via Email](https://github.com/imaxfachin/send-email-logs)**  
