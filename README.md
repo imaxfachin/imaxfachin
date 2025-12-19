@@ -40,6 +40,9 @@
 - 📬 **[Envio de Logs de Backup via Email](https://github.com/imaxfachin/email-backup-reports)**  
   Script em Python que resume backups e envia por SMTP com HTML formatado e anexos.
 
+- **[Servidor Minecraft em Docker](https://github.com/imaxfachin/minecraft-server)**  
+  Script interativo para configuração segura e rápida de firewalls em servidores Debian/Ubuntu.
+
 ---
 
 ## 📫 Contato
