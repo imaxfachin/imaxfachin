@@ -48,7 +48,7 @@
 ## 📫 Contato
 
 - Email: [imaxfachin@gmail.com](mailto:imaxfachin@gmail.com)  
-- LinkedIn: [linkedin.com/in/maxfachin-routerx](www.linkedin.com/in/maxfachin-routerx)
+- LinkedIn: [linkedin.com/in/maxfachin-routerx](https://www.linkedin.com/in/maxfachin-routerx/)
 
 ---
 
